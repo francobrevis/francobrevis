@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francobrevis
-- 👀 I’m interested in Linux and Hack
+- 👀 I’m interested in Linux and Bug Bounty
 - 🌱 I’m currently learning a lot of things such as buffer overflow
 
 <!---
